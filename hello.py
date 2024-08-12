@@ -1,4 +1,4 @@
 hello=4
 print(hello)
-type(hello)
-type(4)
+print(type(hello))
+print(type(4))
