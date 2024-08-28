@@ -1,4 +1,2 @@
-hello=4
+hello='e'
 print(hello)
-print(type(hello))
-print(type(4))

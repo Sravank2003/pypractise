@@ -1,3 +1,2 @@
-i=5
-print(i)
-print(type(i))
+print("hello world")
+print(5)

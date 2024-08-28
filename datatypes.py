@@ -10,5 +10,5 @@ manu=["data engineer", "data analyst"]
 print(type(manu))
 vinit=("data engineer", "data analyst")
 print(type(vinit))
-nagasai={"name":"age", "key":"value"}
-print(type(nagasai))
+nagasai={name:'age', "key":"value"}
+print(nagasai)

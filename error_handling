@@ -1,0 +1,5 @@
+try:
+    result = 10 / 1
+except ZeroDivisionError:
+    print("You can't divide by zero!")
+print(result)
